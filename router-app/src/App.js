@@ -1,11 +1,11 @@
 
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>Router</h1>
+    <div>
+      <h1> Hello from App</h1>
     </div>
-  );
+  )
 }
 
 export default App;
