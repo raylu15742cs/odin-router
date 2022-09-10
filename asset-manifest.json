@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/odin-router/static/js/main.3e8f25cb.js",
+    "main.js": "/odin-router/static/js/main.ab55fb48.js",
     "index.html": "/odin-router/index.html",
-    "main.3e8f25cb.js.map": "/odin-router/static/js/main.3e8f25cb.js.map"
+    "main.ab55fb48.js.map": "/odin-router/static/js/main.ab55fb48.js.map"
   },
   "entrypoints": [
-    "static/js/main.3e8f25cb.js"
+    "static/js/main.ab55fb48.js"
   ]
 }
