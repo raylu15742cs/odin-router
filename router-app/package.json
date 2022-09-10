@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://raylu15742cs.github.io/odin-router/" ,
+  "homepage": "http://raylu15742cs.github.io/odin-router/",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
